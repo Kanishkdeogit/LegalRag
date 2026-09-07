@@ -1,0 +1,223 @@
+[
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to  audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+    "id": "Antares Pharma, Inc. - Manufacturing Agreement__Audit Rights",
+    "answer_text": "The Parties rights and obligations with respect to quality assurance audits are set forth in the Quality Agreement.",
+    "answer_start": 64720,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party’s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+    "id": "Antares Pharma, Inc. - Manufacturing Agreement__Cap On Liability",
+    "answer_text": "The Parties acknowledge and agree that title to and risk of loss of all Prefilled Syringes shall at all times belong to and remain in AMAG; provided that, subject to the limitations on liability set forth in this Section 2.2(b), in the event of loss or damage of any Prefilled Syringes while they are at the Manufacturing Site, Antares shall be only responsible for the replacement costs (as evidenced by AMAG invoices) of such Prefilled Syringes if the damage, loss, theft or destruction was caused by the negligent act or omission or the willful misconduct of Antares or its Subcontractor.",
+    "answer_start": 25594,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+    "id": "Antares Pharma, Inc. - Manufacturing Agreement__Document Name",
+    "answer_text": "Manufacturing Agreement",
+    "answer_start": 695,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing  commitment with the counterparty? This includes a commitment to procure all “requirements” from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on  collaborating or working with other parties), whether during the contract or  after the contract ends (or both).",
+    "id": "Antares Pharma, Inc. - Manufacturing Agreement__Exclusivity",
+    "answer_text": "Starting on the Effective Date, Antares or its Subcontractor shall provide the Manufacturing Services in order to manufacture Devices, Products, sample Products and Trainers exclusively for AMAG for the Territory, all in accordance with the Specifications, Applicable Laws, Quality Agreement and this Agreement.",
+    "answer_start": 22066,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+    "id": "BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT__Parties",
+    "answer_text": "JVLS, LLC",
+    "answer_start": 257,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+    "id": "BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT__Anti-Assignment",
+    "answer_text": "Assignment of Member status, under this clause, including any management and voting interests, will require the consent of all the remaining Members.",
+    "answer_start": 12747,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+    "id": "HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT__Non-Disparagement",
+    "answer_text": "Subject to applicable law, each of the Parties covenants and agrees that, during the Standstill Period, neither Party nor any of its subsidiaries, Affiliates, successors, assigns, principals, partners, members, general partners, officers, key employees or directors (collectively, \"Representatives\"), shall in any way, directly or indirectly, in any capacity or manner, whether written or oral, electronically or otherwise (including, without limitation, in a television, radio, internet, newspaper, magazine interview, or otherwise through the press, media, analysts or other persons or in any document or report filed with the SEC), publicly disparage, impugn, make ad hominem attacks on or otherwise defame or slander or make, express, transmit, speak, write, verbalize or otherwise publicly communicate in any way (or cause, further, assist, solicit, encourage, support or participate in any of the foregoing), any public communication or statement of any kind, whether verbal, in writing, electronically transferred or otherwise, that might reasonably be construed to be disparage, derogate or impugn, the other Party or such other Party's Representatives (including any current officer or director of a Party or a Parties' subsidiaries who no longer serves in such capacity following the execution of this Agreement), employees, stockholders (solely in their capacity as stockholders of the applicable Party), or any of their businesses, products or services, in any manner that would reasonably be expected to damage the business, or reputation of the other Party or of its Representatives (including former officers and directors), directors (or former directors), employees, stockholders (solely in their capacity as stockholders of the applicable Party); provided that, with respect to any litigation, arbitration or other proceeding between the Parties, nothing in this Section 5 shall prevent either Party from disclosing any facts or circumstances with respect to any such litigation, arbitration or other proceeding.",
+    "answer_start": 26195,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+    "id": "HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT__Governing Law",
+    "answer_text": "THIS AGREEMENT WILL BE GOVERNED IN ALL RESPECTS, INCLUDING VALIDITY, INTERPRETATION AND EFFECT, BY THE LAWS OF THE STATE OF DELAWARE WITHOUT GIVING EFFECT TO THE CHOICE OF LAW PRINCIPLES OF SUCH STATE.",
+    "answer_start": 34344,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+    "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Governing Law",
+    "answer_text": "This Agreement is to be construed according to the laws          of the State of Illinois.",
+    "answer_start": 52061,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+    "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Rofr/Rofo/Rofn",
+    "answer_text": "Distributor  shall exercise its option to                   become  exclusive  Distributor of other Products or devices by                   serving  written  notification  on Company of its  election to                   become  exclusive  distributor  within  thirty  (30) days upon                   which  Company  informed  Distributor  in writing of Company's                   intention  to  introduce   other   Products  or  devices.",
+    "answer_start": 52566,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+    "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Minimum Commitment",
+    "answer_text": "A minimum of a $250,000.00  purchase  order  must be  received  by Company by the first of each month for a total (12) month  period.",
+    "answer_start": 7892,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+    "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__License Grant",
+    "answer_text": "Company  hereby   appoints                            Distributor as Company's exclusive distributor within                            the Market and grants to  Distributor  the  exclusive                            right  to sell and  distribute  Products  within  the                            Market,   and   Distributor   hereby   accepts   such                            appointment  and such grant,  in accordance  with the                            terms and conditions of this  Agreement.",
+    "answer_start": 2112,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+    "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Post-Termination Services",
+    "answer_text": "Upon the expiration or termination of                   this  Agreement,  pursuant to Section  4.1 or 4.2 hereof,  the                   Company may, at its option to be  exercised  within 30 days of                   the date of the termination of this Agreement, and in its sole                   discretion,  repurchase  any Products in the possession of the                   Distributor  at the net invoice price paid by the  Distributor                   to  the  Company  less  any  applicable  special   allowances,                   discounts, shipping or allowances for cooperative advertising.",
+    "answer_start": 34710,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+    "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Insurance",
+    "answer_text": "Company will carry a reasonable                   amount of product  liability  insurance  through a  reasonably                   acceptable  products liability insurance company and will name                   the  Distributor  as an additional  insured under that policy.                   Company  will make  reasonable  efforts  to  procure a policy,                   which is non-cancelable, except upon thirty (30) days, advance                   notice to the Distributor.",
+    "answer_start": 41736,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty’s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+    "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Covenant Not To Sue",
+    "answer_text": "During the Term of this Agreement and                   for three  years  thereafter,  the  Distributor  (on behalf of                   itself and each of its affiliates) agrees not to commence,  or                   provide any  information to or otherwise  assist any person or                   entity in  connection  with,  any suit,  action or  proceeding                   contesting the ownership,  validity or  enforceability  of any                   patent,  copyright,  trademark,  trade name or other propriety                   right owned by or licensed to the Company,  whether  currently                   existing or hereinafter invented, developed or acquired unless                   required to by court order.",
+    "answer_start": 42793,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+    "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Document Name",
+    "answer_text": "JOINT FILING AGREEMENT",
+    "answer_start": 11,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+    "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Parties",
+    "answer_text": "Co-Trustee",
+    "answer_start": 1068,
+    "query_type": "cuad_templated"
+  },
+  {
+    "question": "Can Antares make similar medical devices for other companies while it's working with AMAG?",
+    "id": "Antares Pharma, Inc. - Manufacturing Agreement__Natural_Exclusivity",
+    "answer_text": "Antares or its Subcontractor shall provide the Manufacturing Services in order to manufacture Devices, Products, sample Products and Trainers exclusively for AMAG for the Territory... For the avoidance of doubt, subject to, and without limiting or amending the exclusivity restrictions and confidentiality obligations set forth in Section 6.1 and ARTICLE 17 of the Development and License Agreement, respectively, Antares or its Subcontractor may manufacture the VIBEX® QS device or other devices (other than the Device) for itself or other Persons.",
+    "query_type": "natural_phrasing"
+  },
+  {
+    "question": "If HC2 or MG Capital say something negative about each other publicly, are they allowed to do that?",
+    "id": "HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT__Natural_NonDisparagement",
+    "answer_text": "No. Subject to applicable law, each of the Parties covenants and agrees that, during the Standstill Period, neither Party nor its Representatives shall publicly disparage, impugn, or otherwise defame the other Party in a manner that would reasonably be expected to damage the business or reputation of the other Party.",
+    "query_type": "natural_phrasing"
+  },
+  {
+    "question": "Can the distributor in the LimeEnergy contract just sell or hand over the business to someone else without asking the company first?",
+    "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Natural_AntiAssignment",
+    "answer_text": "No assignment of this Agreement or any right accruing hereunder shall be made by the Distributor in whole or in part, without the prior written consent of the Company, which consent shall not be unreasonably withheld.",
+    "query_type": "natural_phrasing"
+  },
+  {
+    "question": "If Antares fails to supply enough product to AMAG, how long does that failure need to continue before AMAG can terminate the agreement, and does that right disappear if the shortage was caused by a Force Majeure event?",
+    "id": "Antares Pharma, Inc. - Manufacturing Agreement__MultiHop_SupplyFailureTermination",
+    "answer_text": "Subject to Section 12.4, if a Supply Failure remains uncured for [***] following written notice of such failure to Antares, AMAG may terminate; provided, however, that AMAG may not terminate this Agreement if Antares' failure to supply Products is a result of a Force Majeure Event under Section 12.4 or AMAG's own breach of this Agreement.",
+    "query_type": "multi_hop"
+  },
+  {
+    "question": "If the LimeEnergy distributor agreement is terminated, what happens to unsold products, and is the distributor still on the hook for anything that happened before termination?",
+    "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__MultiHop_TerminationObligations",
+    "answer_text": "Upon expiration or termination, the Company may, at its option within 30 days, repurchase any Products in the Distributor's possession at the net invoice price (Section 4.4). Separately, the termination of this Agreement shall not relieve either party from obligations which have occurred pursuant to the provisions of this Agreement prior to its termination, nor release either party from obligations incurred as a result of operations conducted under this Agreement (Section 4.3, Accrued Obligations).",
+    "query_type": "multi_hop"
+  },
+  {
+    "question": "If MG Capital breaches the standstill provisions in the HC2 Cooperation Agreement, what can HC2 do about it, and in which court would a resulting dispute be handled?",
+    "id": "HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT__MultiHop_BreachRemedyVenue",
+    "answer_text": "Each Party acknowledges that irreparable injury could occur if the Agreement's provisions are breached, and any non-breaching Party will be entitled to seek injunctive and other equitable relief without proof of actual damages (Section 11(a)). The Parties irrevocably submit to the personal jurisdiction of the Delaware Court of Chancery (or, if declined, federal or state courts in Wilmington, Delaware) for any actions or proceedings arising in connection with this Agreement (Section 11(b)).",
+    "query_type": "multi_hop"
+  },
+  {
+    "question": "Out of all these contracts, which one has the longest defined initial term?",
+    "id": "cross_doc__LongestInitialTerm",
+    "answer_text": "The LimeEnergy Distributor Agreement has the longest defined initial term: ten (10) years (Section 1.3), compared to the BorrowMoney Joint Venture Agreement's roughly 5-year term (March 1, 2020 to February 28, 2025).",
+    "query_type": "cross_document"
+  },
+  {
+    "question": "Which of these contracts is governed by Delaware law specifically?",
+    "id": "cross_doc__DelawareGoverningLaw",
+    "answer_text": "The HC2 Holdings Cooperation Agreement is governed by Delaware law. The Antares Manufacturing Agreement is governed by New York law, the LimeEnergy Distributor Agreement by Illinois law, and the BorrowMoney Joint Venture Agreement by Florida law.",
+    "query_type": "cross_document"
+  },
+  {
+    "question": "Which of these agreements actually creates a joint venture, rather than a simple buyer-seller, distributor, or cooperation relationship?",
+    "id": "cross_doc__WhichIsJointVenture",
+    "answer_text": "The BorrowMoney.com / JVLS, LLC agreement is the joint venture. By this Agreement the Members enter into a joint venture (the \"Venture\") in accordance with the laws of the State of Florida, with the business name BM&V2GO.",
+    "query_type": "cross_document"
+  },
+  {
+    "question": "How many business days does HC2 have to reimburse MG Capital's expenses after receiving satisfactory documentation?",
+    "id": "HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT__Numeric_ReimbursementDays",
+    "answer_text": "Within five (5) business days following receipt of reasonably satisfactory documentation thereof, the Company will reimburse the MG Capital Parties for their fees and expenses.",
+    "query_type": "numeric_reasoning"
+  },
+  {
+    "question": "For how many months after the LimeEnergy agreement ends is the distributor still barred from hiring the Company's employees?",
+    "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Numeric_NonSolicitDuration",
+    "answer_text": "During the Term of this Agreement and for a period of twelve (12) months thereafter, the Distributor agrees that it will not directly or indirectly solicit or hire any executive, managerial or technical employee of the Company or any of its affiliates.",
+    "query_type": "numeric_reasoning"
+  },
+  {
+    "question": "What are the main financial commitments the distributor has to make under the LimeEnergy agreement?",
+    "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Broad_FinancialCommitments",
+    "answer_text": "The Distributor must issue an irrevocable letter of credit of $500,000 (renewed for five consecutive bimonthly periods), submit a minimum $250,000.00 purchase order to the Company by the first of each month for a 12-month period, and meet escalating minimum annual unit purchase quantities (Section 1.6) to maintain its exclusive distribution rights.",
+    "query_type": "broad_synthesis"
+  },
+  {
+    "question": "What should a lawyer flag as the key liability-related protections for Antares in the Manufacturing Agreement?",
+    "id": "Antares Pharma, Inc. - Manufacturing Agreement__Broad_LiabilityProtections",
+    "answer_text": "Key liability provisions include: mandatory commercial general liability and product liability insurance with minimum coverage limits (Section 9.3); a Limitation of Liability clause (Section 9.4); and AMAG's indemnification obligations protecting Antares against third-person claims arising from AMAG's breach or the Product's content/release decisions (Section 9.1).",
+    "query_type": "broad_synthesis"
+  },
+  {
+    "question": "If Antares can't keep up with AMAG's manufacturing demand, what options does AMAG have?",
+    "id": "Antares Pharma, Inc. - Manufacturing Agreement__Broad_SupplyShortfallOptions",
+    "answer_text": "AMAG may exercise its right under Section 3.10 to purchase Devices, Components, Products, sample Products and/or Trainers directly from Antares' Subcontractors or Second Source Suppliers on substantially similar terms. Separately, under Section 7.2(b), if a Supply Failure remains uncured after written notice, AMAG may terminate the Agreement (subject to Force Majeure and AMAG's-own-breach exceptions).",
+    "query_type": "broad_synthesis"
+  },
+  {
+    "question": "What counts as a Force Majeure event under the BorrowMoney joint venture, and what does a Member actually have to do to be excused from liability during one?",
+    "id": "BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT__Conditional_ForceMajeure",
+    "answer_text": "A Member will be free of liability to the Venture where the Member is prevented from executing their obligations under this Agreement in whole or in part due to force majeure, where the Member has communicated the circumstance of that event to any and all other Members and taken any and all appropriate action to mitigate that event. Force majeure includes, but is not limited to, earthquake, typhoon, flood, fire, and war or any other unforeseen and uncontrollable event.",
+    "query_type": "conditional_nuance"
+  },
+  {
+    "question": "In the Antares agreement, does AMAG get to buy directly from Antares' subcontractors under the same conditions regardless of whether the supply problem was caused by Force Majeure or by Antares' own financial breach with the subcontractor?",
+    "id": "Antares Pharma, Inc. - Manufacturing Agreement__Conditional_SupplyTriggerComparison",
+    "answer_text": "No — the two triggers require different durations before AMAG can act. Under Section 3.10(a)(i), if a Force Majeure Event affecting solely Antares lasts for [***] and prevents Antares from fulfilling financial obligations to a Subcontractor, Antares must notify AMAG. Under Section 3.10(a)(ii), if Antares is otherwise in material breach of its financial obligations to a Subcontractor for at least [***], the same notice obligation applies. Both trigger AMAG's right to notify Antares of intent to exercise its Section 3.10 rights, but the events themselves (Force Majeure vs. Antares' own financial breach) are treated as distinct triggering conditions with separately defined qualifying periods.",
+    "query_type": "conditional_nuance"
+  },
+  {
+    "question": "Under the LimeEnergy contract, can the distributor ever avoid being penalized for missing its minimum annual purchase targets, or is that requirement absolute?",
+    "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Conditional_MinimumExpectationsExcuse",
+    "answer_text": "It is not absolute. The Company agrees that Distributor shall not be liable or subject to reevaluation for failure to meet expectations due to any occurrence beyond Distributor's reasonable control, including, but not limited to, Acts of God, fires, floods, wars, sabotage, accidents in shipping, labor disturbances, weather conditions, governmental regulation, lack of Company performance, delay by Company, or failure of Company to honor warranties or otherwise materially support the Products.",
+    "query_type": "conditional_nuance"
+  }
+]

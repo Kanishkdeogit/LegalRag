@@ -1,0 +1,263 @@
+{
+  "summary": {
+    "input_file": "eval_dataset3_results_with_chunks.json",
+    "total_examples": 34,
+    "scored_cuad_examples": 17,
+    "excluded_examples": 17,
+    "excluded_by_query_type": {
+      "natural_phrasing": 3,
+      "multi_hop": 3,
+      "cross_document": 3,
+      "numeric_reasoning": 2,
+      "broad_synthesis": 3,
+      "conditional_nuance": 3
+    },
+    "exact_match_pct": 0.0,
+    "f1_score_pct": 54.63,
+    "include_proxy_curve": false,
+    "aupr_proxy_pct": null,
+    "precision_at_80_recall_proxy_pct": null,
+    "precision_at_90_recall_proxy_pct": null
+  },
+  "per_clause_breakdown": [
+    {
+      "clause_type": "Parties",
+      "count": 2,
+      "exact_match_pct": 0.0,
+      "f1_score_pct": 17.05
+    },
+    {
+      "clause_type": "Non-Disparagement",
+      "count": 1,
+      "exact_match_pct": 0.0,
+      "f1_score_pct": 27.16
+    },
+    {
+      "clause_type": "Post-Termination Services",
+      "count": 1,
+      "exact_match_pct": 0.0,
+      "f1_score_pct": 34.55
+    },
+    {
+      "clause_type": "Cap On Liability",
+      "count": 1,
+      "exact_match_pct": 0.0,
+      "f1_score_pct": 36.76
+    },
+    {
+      "clause_type": "Minimum Commitment",
+      "count": 1,
+      "exact_match_pct": 0.0,
+      "f1_score_pct": 37.5
+    },
+    {
+      "clause_type": "Governing Law",
+      "count": 2,
+      "exact_match_pct": 0.0,
+      "f1_score_pct": 46.44
+    },
+    {
+      "clause_type": "License Grant",
+      "count": 1,
+      "exact_match_pct": 0.0,
+      "f1_score_pct": 61.29
+    },
+    {
+      "clause_type": "Anti-Assignment",
+      "count": 1,
+      "exact_match_pct": 0.0,
+      "f1_score_pct": 61.9
+    },
+    {
+      "clause_type": "Exclusivity",
+      "count": 1,
+      "exact_match_pct": 0.0,
+      "f1_score_pct": 66.67
+    },
+    {
+      "clause_type": "Covenant Not To Sue",
+      "count": 1,
+      "exact_match_pct": 0.0,
+      "f1_score_pct": 71.76
+    },
+    {
+      "clause_type": "Rofr/Rofo/Rofn",
+      "count": 1,
+      "exact_match_pct": 0.0,
+      "f1_score_pct": 73.17
+    },
+    {
+      "clause_type": "Document Name",
+      "count": 2,
+      "exact_match_pct": 0.0,
+      "f1_score_pct": 77.5
+    },
+    {
+      "clause_type": "Insurance",
+      "count": 1,
+      "exact_match_pct": 0.0,
+      "f1_score_pct": 85.11
+    },
+    {
+      "clause_type": "Audit Rights",
+      "count": 1,
+      "exact_match_pct": 0.0,
+      "f1_score_pct": 90.91
+    }
+  ],
+  "scored_examples": [
+    {
+      "id": "Antares Pharma, Inc. - Manufacturing Agreement__Audit Rights",
+      "clause_type": "Audit Rights",
+      "question": "In the Antares Pharma, Inc. - Manufacturing Agreement, Highlight the parts (if any) of this contract related to \"Audit Rights\" that should be reviewed by a lawyer. Details: Does a party have the right to  audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",
+      "ground_truth": "The Parties rights and obligations with respect to quality assurance audits are set forth in the Quality Agreement.",
+      "generated_answer": "The rights and obligations with respect to quality assurance audits are set forth in the Quality Agreement (Section 6.4)",
+      "exact_match": 0.0,
+      "f1_score": 90.91
+    },
+    {
+      "id": "Antares Pharma, Inc. - Manufacturing Agreement__Cap On Liability",
+      "clause_type": "Cap On Liability",
+      "question": "In the Antares Pharma, Inc. - Manufacturing Agreement, Highlight the parts (if any) of this contract related to \"Cap On Liability\" that should be reviewed by a lawyer. Details: Does the contract include a cap on liability upon the breach of a party’s obligation? This includes time limitation for the counterparty to bring claims or maximum amount for recovery.",
+      "ground_truth": "The Parties acknowledge and agree that title to and risk of loss of all Prefilled Syringes shall at all times belong to and remain in AMAG; provided that, subject to the limitations on liability set forth in this Section 2.2(b), in the event of loss or damage of any Prefilled Syringes while they are at the Manufacturing Site, Antares shall be only responsible for the replacement costs (as evidenced by AMAG invoices) of such Prefilled Syringes if the damage, loss, theft or destruction was caused by the negligent act or omission or the willful misconduct of Antares or its Subcontractor.",
+      "generated_answer": "Antares' liability for lost or damaged Prefilled Syringes at the Manufacturing Site is limited solely to replacement costs in cases caused by its negligence or willful misconduct, and Antares is not responsible for losses resulting from the normal manufacturing yield or obsolescence (Section 2.2(b)). (Section 2.2(b))",
+      "exact_match": 0.0,
+      "f1_score": 36.76
+    },
+    {
+      "id": "Antares Pharma, Inc. - Manufacturing Agreement__Document Name",
+      "clause_type": "Document Name",
+      "question": "In the Antares Pharma, Inc. - Manufacturing Agreement, Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "ground_truth": "Manufacturing Agreement",
+      "generated_answer": "Manufacturing Agreement (Title)",
+      "exact_match": 0.0,
+      "f1_score": 80.0
+    },
+    {
+      "id": "Antares Pharma, Inc. - Manufacturing Agreement__Exclusivity",
+      "clause_type": "Exclusivity",
+      "question": "In the Antares Pharma, Inc. - Manufacturing Agreement, Highlight the parts (if any) of this contract related to \"Exclusivity\" that should be reviewed by a lawyer. Details: Is there an exclusive dealing  commitment with the counterparty? This includes a commitment to procure all “requirements” from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on  collaborating or working with other parties), whether during the contract or  after the contract ends (or both).",
+      "ground_truth": "Starting on the Effective Date, Antares or its Subcontractor shall provide the Manufacturing Services in order to manufacture Devices, Products, sample Products and Trainers exclusively for AMAG for the Territory, all in accordance with the Specifications, Applicable Laws, Quality Agreement and this Agreement.",
+      "generated_answer": "Antares or its Subcontractor is required to provide the Manufacturing Services in order to manufacture Devices, Products, sample Products and Trainers exclusively for AMAG for the Territory. (Section 2.1(a))",
+      "exact_match": 0.0,
+      "f1_score": 66.67
+    },
+    {
+      "id": "BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT__Parties",
+      "clause_type": "Parties",
+      "question": "In the BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT, Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "ground_truth": "JVLS, LLC",
+      "generated_answer": "The parties who signed the contract are BorrowMoney.com, inc and JVLS, LLC dba Vaccines 2Go (Title).",
+      "exact_match": 0.0,
+      "f1_score": 25.0
+    },
+    {
+      "id": "BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT__Anti-Assignment",
+      "clause_type": "Anti-Assignment",
+      "question": "In the BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT, Highlight the parts (if any) of this contract related to \"Anti-Assignment\" that should be reviewed by a lawyer. Details: Is consent or notice required of a party if the contract is assigned to a third party?",
+      "ground_truth": "Assignment of Member status, under this clause, including any management and voting interests, will require the consent of all the remaining Members.",
+      "generated_answer": "Consent of all the remaining Members is required to assign Member status, including any management and voting interests, to a third party (Section 41).",
+      "exact_match": 0.0,
+      "f1_score": 61.9
+    },
+    {
+      "id": "HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT__Non-Disparagement",
+      "clause_type": "Non-Disparagement",
+      "question": "In the HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT, Highlight the parts (if any) of this contract related to \"Non-Disparagement\" that should be reviewed by a lawyer. Details: Is there a requirement on a party not to disparage the counterparty?",
+      "ground_truth": "Subject to applicable law, each of the Parties covenants and agrees that, during the Standstill Period, neither Party nor any of its subsidiaries, Affiliates, successors, assigns, principals, partners, members, general partners, officers, key employees or directors (collectively, \"Representatives\"), shall in any way, directly or indirectly, in any capacity or manner, whether written or oral, electronically or otherwise (including, without limitation, in a television, radio, internet, newspaper, magazine interview, or otherwise through the press, media, analysts or other persons or in any document or report filed with the SEC), publicly disparage, impugn, make ad hominem attacks on or otherwise defame or slander or make, express, transmit, speak, write, verbalize or otherwise publicly communicate in any way (or cause, further, assist, solicit, encourage, support or participate in any of the foregoing), any public communication or statement of any kind, whether verbal, in writing, electronically transferred or otherwise, that might reasonably be construed to be disparage, derogate or impugn, the other Party or such other Party's Representatives (including any current officer or director of a Party or a Parties' subsidiaries who no longer serves in such capacity following the execution of this Agreement), employees, stockholders (solely in their capacity as stockholders of the applicable Party), or any of their businesses, products or services, in any manner that would reasonably be expected to damage the business, or reputation of the other Party or of its Representatives (including former officers and directors), directors (or former directors), employees, stockholders (solely in their capacity as stockholders of the applicable Party); provided that, with respect to any litigation, arbitration or other proceeding between the Parties, nothing in this Section 5 shall prevent either Party from disclosing any facts or circumstances with respect to any such litigation, arbitration or other proceeding.",
+      "generated_answer": "Each party covenants and agrees during the Standstill Period not to publicly disparage, impugn, make ad hominem attacks on, or otherwise defame, slander, or communicate statements that might reasonably be construed to disparage or derogate the other party or its representatives, employees, stockholders, businesses, products, or services (Section 6).",
+      "exact_match": 0.0,
+      "f1_score": 27.16
+    },
+    {
+      "id": "HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT__Governing Law",
+      "clause_type": "Governing Law",
+      "question": "In the HC2HOLDINGS,INC_05_14_2020-EX-10.1-COOPERATION AGREEMENT, Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "ground_truth": "THIS AGREEMENT WILL BE GOVERNED IN ALL RESPECTS, INCLUDING VALIDITY, INTERPRETATION AND EFFECT, BY THE LAWS OF THE STATE OF DELAWARE WITHOUT GIVING EFFECT TO THE CHOICE OF LAW PRINCIPLES OF SUCH STATE.",
+      "generated_answer": "The agreement is governed by the laws of the State of Delaware (Section 11(a)).",
+      "exact_match": 0.0,
+      "f1_score": 39.02
+    },
+    {
+      "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Governing Law",
+      "clause_type": "Governing Law",
+      "question": "In the LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT, Highlight the parts (if any) of this contract related to \"Governing Law\" that should be reviewed by a lawyer. Details: Which state/country's law governs the interpretation of the contract?",
+      "ground_truth": "This Agreement is to be construed according to the laws          of the State of Illinois.",
+      "generated_answer": "The interpretation of the agreement is governed by the laws of the State of Illinois (Section 6.9).",
+      "exact_match": 0.0,
+      "f1_score": 53.85
+    },
+    {
+      "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Rofr/Rofo/Rofn",
+      "clause_type": "Rofr/Rofo/Rofn",
+      "question": "In the LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT, Highlight the parts (if any) of this contract related to \"Rofr/Rofo/Rofn\" that should be reviewed by a lawyer. Details: Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",
+      "ground_truth": "Distributor  shall exercise its option to                   become  exclusive  Distributor of other Products or devices by                   serving  written  notification  on Company of its  election to                   become  exclusive  distributor  within  thirty  (30) days upon                   which  Company  informed  Distributor  in writing of Company's                   intention  to  introduce   other   Products  or  devices.",
+      "generated_answer": "Distributor has an option to become the exclusive distributor of other products or devices by serving written notification on Company within thirty (30) days of being informed in writing of Company's intention to introduce them. (Section 7.2)",
+      "exact_match": 0.0,
+      "f1_score": 73.17
+    },
+    {
+      "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Minimum Commitment",
+      "clause_type": "Minimum Commitment",
+      "question": "In the LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT, Highlight the parts (if any) of this contract related to \"Minimum Commitment\" that should be reviewed by a lawyer. Details: Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?",
+      "ground_truth": "A minimum of a $250,000.00  purchase  order  must be  received  by Company by the first of each month for a total (12) month  period.",
+      "generated_answer": "Distributor must use all commercially reasonable efforts to purchase minimum unit quantities ranging from 375 units in the first Product Year up to 2,856 units in each of the last three years of the initial term, alongside issuing an irrevocable letter of credit of $500,000 and receiving a minimum $250,000 purchase order by the first of each month for a total twelve (12) month period. (Section 1.6)",
+      "exact_match": 0.0,
+      "f1_score": 37.5
+    },
+    {
+      "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__License Grant",
+      "clause_type": "License Grant",
+      "question": "In the LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT, Highlight the parts (if any) of this contract related to \"License Grant\" that should be reviewed by a lawyer. Details: Does the contract contain a license granted by one party to its counterparty?",
+      "ground_truth": "Company  hereby   appoints                            Distributor as Company's exclusive distributor within                            the Market and grants to  Distributor  the  exclusive                            right  to sell and  distribute  Products  within  the                            Market,   and   Distributor   hereby   accepts   such                            appointment  and such grant,  in accordance  with the                            terms and conditions of this  Agreement.",
+      "generated_answer": "Company appoints Distributor as an exclusive distributor within the Market and grants the exclusive right to sell and distribute Products within the Market (Section 1.1).",
+      "exact_match": 0.0,
+      "f1_score": 61.29
+    },
+    {
+      "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Post-Termination Services",
+      "clause_type": "Post-Termination Services",
+      "question": "In the LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT, Highlight the parts (if any) of this contract related to \"Post-Termination Services\" that should be reviewed by a lawyer. Details: Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",
+      "ground_truth": "Upon the expiration or termination of                   this  Agreement,  pursuant to Section  4.1 or 4.2 hereof,  the                   Company may, at its option to be  exercised  within 30 days of                   the date of the termination of this Agreement, and in its sole                   discretion,  repurchase  any Products in the possession of the                   Distributor  at the net invoice price paid by the  Distributor                   to  the  Company  less  any  applicable  special   allowances,                   discounts, shipping or allowances for cooperative advertising.",
+      "generated_answer": "Termination of the agreement does not relieve either party from obligations accrued prior to termination or incurred from operations conducted under the agreement, and the Company has the option to repurchase products in the Distributor's possession while the Distributor may continue to sell unrepurchased inventory in the market. (Sections 4.3 and 4.4)",
+      "exact_match": 0.0,
+      "f1_score": 34.55
+    },
+    {
+      "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Insurance",
+      "clause_type": "Insurance",
+      "question": "In the LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT, Highlight the parts (if any) of this contract related to \"Insurance\" that should be reviewed by a lawyer. Details: Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?",
+      "ground_truth": "Company will carry a reasonable                   amount of product  liability  insurance  through a  reasonably                   acceptable  products liability insurance company and will name                   the  Distributor  as an additional  insured under that policy.                   Company  will make  reasonable  efforts  to  procure a policy,                   which is non-cancelable, except upon thirty (30) days, advance                   notice to the Distributor.",
+      "generated_answer": "Company is required to carry a reasonable amount of product liability insurance through a reasonably acceptable products liability insurance company and must name the Distributor as an additional insured under that policy, making reasonable efforts to procure a policy that is non-cancelable except upon thirty (30) days' advance notice to the Distributor. (Section 5.4)",
+      "exact_match": 0.0,
+      "f1_score": 85.11
+    },
+    {
+      "id": "LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT__Covenant Not To Sue",
+      "clause_type": "Covenant Not To Sue",
+      "question": "In the LIMEENERGYCO_09_09_1999-EX-10-DISTRIBUTOR AGREEMENT, Highlight the parts (if any) of this contract related to \"Covenant Not To Sue\" that should be reviewed by a lawyer. Details: Is a party restricted from contesting the validity of the counterparty’s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?",
+      "ground_truth": "During the Term of this Agreement and                   for three  years  thereafter,  the  Distributor  (on behalf of                   itself and each of its affiliates) agrees not to commence,  or                   provide any  information to or otherwise  assist any person or                   entity in  connection  with,  any suit,  action or  proceeding                   contesting the ownership,  validity or  enforceability  of any                   patent,  copyright,  trademark,  trade name or other propriety                   right owned by or licensed to the Company,  whether  currently                   existing or hereinafter invented, developed or acquired unless                   required to by court order.",
+      "generated_answer": "The Distributor agrees not to commence, or provide information to or assist in, any suit, action, or proceeding contesting the ownership, validity, or enforceability of any patent, copyright, trademark, trade name, or other proprietary right owned by or licensed to the Company during the term of the agreement and for three years thereafter. (Section 5.6)",
+      "exact_match": 0.0,
+      "f1_score": 71.76
+    },
+    {
+      "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Document Name",
+      "clause_type": "Document Name",
+      "question": "In the NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT, Highlight the parts (if any) of this contract related to \"Document Name\" that should be reviewed by a lawyer. Details: The name of the contract",
+      "ground_truth": "JOINT FILING AGREEMENT",
+      "generated_answer": "Joint Filing Agreement (Exhibit 1)",
+      "exact_match": 0.0,
+      "f1_score": 75.0
+    },
+    {
+      "id": "NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT__Parties",
+      "clause_type": "Parties",
+      "question": "In the NELNETINC_04_08_2020-EX-1-JOINT FILING AGREEMENT, Highlight the parts (if any) of this contract related to \"Parties\" that should be reviewed by a lawyer. Details: The two or more parties who signed the contract",
+      "ground_truth": "Co-Trustee",
+      "generated_answer": "The parties who signed the contract are Shelby J. Butterfield and the Butterfield Family Trust (acting by Shelby J. Butterfield as Co-Trustee) (Exhibit 1).",
+      "exact_match": 0.0,
+      "f1_score": 9.09
+    }
+  ]
+}

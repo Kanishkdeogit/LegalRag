@@ -1,0 +1,16 @@
+qdrant-client
+google-genai
+langchain-google-genai
+langchain-qdrant
+langchain-core
+langchain-community
+ragas
+mlflow
+pypdf
+tenacity
+python-dotenv
+rank-bm25
+flashrank
+fastapi
+uvicorn
+streamlit

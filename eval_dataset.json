@@ -1,0 +1,128 @@
+[
+  {
+    "question": "Which Part and which range of Articles of the Constitution contain the Directive Principles of State Policy?",
+    "ground_truth": "On Page 91, the material states that Part IV of the Constitution, covering Articles 36 to 51, provides the Directive Principles of State Policy.",
+    "reference_section": "Unit V, Page 91",
+    "difficulty": "easy",
+    "type": "direct_lookup"
+  },
+  {
+    "question": "What are the five prerogative writs available for enforcement of rights under Articles 32 and 226, and on what page are they listed?",
+    "ground_truth": "On Page 87, the five prerogative writs listed are: Writ of Habeas Corpus, Writ of Certiorari, Writ of Mandamus, Writ of Quo Warranto, and Writ of Prohibition.",
+    "reference_section": "Unit IV, Page 87",
+    "difficulty": "easy",
+    "type": "direct_lookup"
+  },
+  {
+    "question": "What did the Supreme Court hold in Golak Nath v. The State of Punjab (1967) regarding Parliament's power under Article 368, and by what majority?",
+    "ground_truth": "On Page 29, in Golak Nath v. The State of Punjab (1967), a special bench of 11 judges, by a majority of 6 to 5, reversed the Court's earlier position and held that Parliament under Article 368 has no power to take away or abridge the Fundamental Rights contained in Part III of the Constitution.",
+    "reference_section": "Unit I, Judicial Review of Legislative Enactment, Page 29",
+    "difficulty": "medium",
+    "type": "conceptual"
+  },
+  {
+    "question": "What was the Supreme Court's holding in Shankari Prasad v. Union of India (1951) regarding the relationship between Article 368 and Article 13(2)?",
+    "ground_truth": "On Page 29, the Supreme Court unanimously held that the terms of Article 368 are perfectly general and empower Parliament to amend the Constitution without exception, and that 'law' in Article 13 means ordinary law made under legislative power, not constitutional amendments made under Article 368 — so Article 13(2) does not affect amendments made under Article 368.",
+    "reference_section": "Unit I, Page 29",
+    "difficulty": "medium",
+    "type": "conceptual"
+  },
+  {
+    "question": "What did the Supreme Court decide in Indra Sawhney v. Union of India regarding the percentage of reservation for socially and economically backward classes, and what related limitation did the Court impose regarding the 'creamy layer'?",
+    "ground_truth": "According to Page 62, the Supreme Court in Indra Sawhney v. Union of India declared 27% reservation legal for socially and economically backward classes under central services. Separately, on Page 64, the Court (per Indira Sawhney & Others v. Union of India) upheld separate reservation for other backward classes in central government jobs but ordered the exclusion of the creamy layer from enjoying reservation facilities, and restricted total reservations to within the 50% limit.",
+    "reference_section": "Unit IV, Pages 62 and 64",
+    "difficulty": "hard",
+    "type": "multi_page_synthesis"
+  },
+  {
+    "question": "What are the eight grounds listed under Article 19(2) on which the state can impose reasonable restrictions on freedom of speech and expression?",
+    "ground_truth": "On Page 62 (continuing onto Page 63), the eight grounds are: Security of the state, Friendly relations with foreign states, Public Order, Decency or morality, Contempt of Court, Defamation, Incitement to an offence, and Sovereignty and integrity of India.",
+    "reference_section": "Unit IV, Article 19(2), Pages 62-63",
+    "difficulty": "medium",
+    "type": "direct_lookup"
+  },
+  {
+    "question": "How did the Supreme Court's interpretation of Article 21 change between A.K. Gopalan v. State of Madras (1950) and Maneka Gandhi v. Union of India (1978)?",
+    "ground_truth": "On Pages 76-77, in Gopalan (1950), the Court held that protection under Article 21 was available only against arbitrary executive action, not arbitrary legislative action, and that if personal liberty was taken away by a law, the law's validity could not be questioned. In Maneka Gandhi (1978), the Court overruled Gopalan, holding that Article 21 protection extends to arbitrary legislative action as well, introducing the American concept of 'due process of law,' and that any procedure depriving a person of life or liberty must be reasonable, fair, and just, not arbitrary or fanciful.",
+    "reference_section": "Unit IV, Right to Life, Pages 76-77",
+    "difficulty": "hard",
+    "type": "multi_page_synthesis"
+  },
+  {
+    "question": "According to A.V. Dicey, what are the three implications of the doctrine of Parliamentary Sovereignty in Britain, and how does this compare with the Indian Parliament?",
+    "ground_truth": "On Page 19, Dicey's three implications are: (1) Parliament can make, amend, substitute, or repeal any law; (2) Parliament can make constitutional laws by the same procedure as ordinary laws, with no legal distinction between constituent and legislative authority; and (3) Parliamentary laws cannot be declared invalid by the judiciary as unconstitutional, since there is no judicial review in Britain. The material notes that the Indian Parliament, by contrast, cannot be regarded as sovereign in this sense because there are legal restrictions on its authority and jurisdiction.",
+    "reference_section": "Unit I, Parliamentary Supremacy, Page 19",
+    "difficulty": "hard",
+    "type": "conceptual"
+  },
+  {
+    "question": "Which constitutional amendment inserted Article 21A, and what right did it guarantee?",
+    "ground_truth": "On Page 77, the 86th Constitutional Amendment Act of 2002 inserted Article 21A, making elementary education a Fundamental Right.",
+    "reference_section": "Unit IV, Right to Life, Page 77",
+    "difficulty": "easy",
+    "type": "direct_lookup"
+  },
+  {
+    "question": "Under Section 3 of the Citizenship Act, 1955, what is the rule for a person born in India on or after 3rd December 2004 to be considered a citizen by birth?",
+    "ground_truth": "On Page 40, a person born in India on or after 3rd December 2004 is considered a citizen of India by birth if both parents are citizens of India, or if one parent is a citizen of India and the other is not an illegal migrant at the time of the person's birth.",
+    "reference_section": "Unit II, Citizenship Act 1955, Page 40",
+    "difficulty": "medium",
+    "type": "conceptual"
+  },
+  {
+    "question": "What is the residency requirement for a foreigner to acquire Indian citizenship by naturalization under Section 6 of the Citizenship Act, 1955?",
+    "ground_truth": "On Page 42, a foreigner (who is not an illegal migrant) can acquire citizenship by naturalization if ordinarily resident in India for twelve years — throughout the twelve months immediately preceding the date of application, and for eleven years in the aggregate during the fourteen years preceding those twelve months — along with other qualifications specified in the Third Schedule.",
+    "reference_section": "Unit II, By Naturalization, Page 42",
+    "difficulty": "medium",
+    "type": "direct_lookup"
+  },
+  {
+    "question": "What are the three ways by which a person can lose Indian citizenship according to the Citizenship Act, 1955?",
+    "ground_truth": "On Page 42, the three ways of losing citizenship are: Renunciation, Termination, and Deprivation.",
+    "reference_section": "Unit II, Loss of Citizenship, Page 42",
+    "difficulty": "easy",
+    "type": "direct_lookup"
+  },
+  {
+    "question": "Why is India's federation often described as 'quasi-federal,' and what specific example involving citizenship illustrates this unitary tendency?",
+    "ground_truth": "On Page 31, India's federation is described as quasi-federal, semi-federal, pragmatic, or having strong unitary features because, despite having a written Constitution and an independent judiciary, the Centre exercises significant control over the States. As an example, unlike a true federation such as the U.S.A. which provides dual citizenship, the Indian Constitution provides only single citizenship for the whole country rather than separate state and federal citizenship.",
+    "reference_section": "Unit I, Federal & Quasi-federal, Page 31",
+    "difficulty": "hard",
+    "type": "conceptual"
+  },
+  {
+    "question": "How does Dr. M.P. Sharma classify the Directive Principles of State Policy into related groups, according to the material?",
+    "ground_truth": "On Page 92, Dr. M.P. Sharma classified the Directive Principles into three categories: socialistic, Gandhian, and liberal-intellectualistic.",
+    "reference_section": "Unit V, Importance of DPSP, Page 92",
+    "difficulty": "medium",
+    "type": "direct_lookup"
+  },
+  {
+    "question": "What were the two parts of Article 31-C as inserted by the 25th Constitutional Amendment Act, 1971, and what was its overall objective?",
+    "ground_truth": "On Page 94, Article 31-C's avowed objective was to usher in a socialist pattern of society. Its first part protected a law giving effect to the policy of the state toward securing the principles in Articles 39(b) and (c) from being challenged for infringing Fundamental Rights under Articles 14, 19, and 31. Its second part originally sought to oust the jurisdiction of courts from examining whether the law in question actually gave effect to the principles in Articles 39(b) and 39(c).",
+    "reference_section": "Unit V, Article 31-C, Page 94",
+    "difficulty": "hard",
+    "type": "conceptual"
+  },
+  {
+    "question": "In the 73rd Constitutional Amendment relating to Panchayats, what population threshold determines whether a state must have a three-tier or two-tier Panchayat system?",
+    "ground_truth": "On Page 32, states with a population of over 25 lakh must have three tiers of Panchayats (District, Block/intermediary, and Village/Gram Panchayats), while states with less than this population have only two tiers, omitting the intermediary tier.",
+    "reference_section": "Unit I, Panchayat Raj System, Page 32",
+    "difficulty": "medium",
+    "type": "direct_lookup"
+  },
+  {
+    "question": "Distinguish between Shankari Prasad v. Union of India and Sajjan Singh v. State of Rajasthan in terms of their outcome on the amendability of Fundamental Rights, and note where each case is discussed.",
+    "ground_truth": "On Page 29 (and again on Page 49), Shankari Prasad v. Union of India (1951) held that Parliament's amending power under Article 368 could amend Fundamental Rights, since 'law' under Article 13(2) meant only ordinary legislative law, not constitutional amendments. On Page 49, Sajjan Singh v. State of Rajasthan (1965) followed this reasoning, holding that 'amendment of the Constitution' means amendment of all provisions of the Constitution, including Part III. Both cases therefore reached the same conclusion that Fundamental Rights could be amended, before this position was reversed in Golak Nath (1967).",
+    "reference_section": "Unit I, Page 29; Unit III, Page 49",
+    "difficulty": "hard",
+    "type": "multi_page_synthesis"
+  },
+  {
+    "question": "What did the Supreme Court decide about whether the judiciary is included within the definition of 'State' under Article 12, based on Naresh v. State of Maharashtra?",
+    "ground_truth": "On Page 45, in Naresh v. State of Maharashtra, the Supreme Court held that fundamental rights are not infringed by an order of the Court and no writ can be issued against a High Court on this basis, though the material notes this remains a subject of controversy, and in another case it was held that a High Court judge is as much a part of the State as the executive.",
+    "reference_section": "Unit III, Whether State includes Judiciary, Page 45",
+    "difficulty": "hard",
+    "type": "conceptual"
+  }
+]

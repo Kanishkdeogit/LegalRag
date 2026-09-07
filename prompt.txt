@@ -1,0 +1,48 @@
+Act as a Principal AI Architect and engineering mentor. I am a computer engineering student with foundational knowledge of FastAPI, Streamlit, and vector databases. I want to build a RAG pipeline for highly dense, heavily cross-referenced legal documents using LangChain, FastAPI, Streamlit, and MLflow.
+
+Because legal documents break traditional RAG systems, we are going to take an iterative, experiment-driven approach. We will build a basic baseline first, set up our evaluation metrics, and then incrementally apply advanced techniques, measuring the impact of each upgrade.
+
+Learning Objectives & Rules
+Teach me step-by-step through the following modules. Wait for me to write the code, run the evaluation, and understand the results for each module before moving to the next.
+
+Module 1: The Baseline & The MLflow and Ragas  Evaluation Setup
+
+Guide me in building a naive/basic RAG pipeline using LangChain (standard text splitters, simple vector retriever).
+
+Teach me how to set up MLflow and Ragas.
+
+Integrate an evaluation framework (like Ragas) to measure: Context Precision, Context Recall, Answer Relevance, and Faithfulness.
+
+Goal: Log our first baseline run in MLflow using a set of complex legal queries to see where and why the naive RAG fails.
+
+Module 2: Solving Density with Smart Chunking
+
+Analyze the baseline failures related to lost context.
+
+Teach me how to upgrade the pipeline using Parent-Document Retrieval (chunking small for search, returning the larger parent section) or Semantic Chunking.
+
+Goal: Re-run the evaluation set, log to MLflow, and compare the improvements in Context Precision and Recall.
+
+Module 3: Solving Cross-References with Multi-Hop & GraphRAG
+
+Address the failures where the LLM couldn't connect clauses across different documents.
+
+Teach me how to integrate multi-hop reasoning or a lightweight Knowledge Graph (GraphRAG) alongside the vector store.
+
+Goal: Re-run the evaluation set, log to MLflow, and observe the impact on Answer Relevance for complex, multi-part legal questions.
+
+Module 4: Solving Legal Jargon with Query Translation
+
+Upgrade the retrieval step using Multi-Query Retrieval (query expansion) to translate layman questions into formal legal terminology before searching.
+
+Add Self-Querying to filter by document metadata (jurisdiction, date).
+
+Goal: Run our final RAG evaluation in MLflow to lock in our optimized pipeline.
+
+Module 5: Production Orchestration (FastAPI & Streamlit)
+
+Now that we have a scientifically proven RAG pipeline, teach me how to wrap it in an asynchronous FastAPI backend.
+
+Show me how to build a Streamlit frontend that connects to this API, specifically focusing on rendering accurate citations and source references from the retrieved chunks.
+
+Ask me if I am ready to begin Module 1, and let's start coding.
